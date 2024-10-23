@@ -9,7 +9,7 @@ This folder contains preliminary tests and experiments to verify the functionali
 #### 2. LE Score Calculation
 **Date**: 2024-10-24  
 - **Purpose**:  
-- To validate that the LE (Logical Equivalence) Score Calculation script accurately evaluates the similarity between FOL (First-Order Logic) expressions. This test ensures that the LE score calculation provides consistent results when comparing two FOL expressions.
+  - To validate that the LE (Logical Equivalence) Score Calculation script accurately evaluates the similarity between FOL (First-Order Logic) expressions. This test ensures that the LE score calculation provides consistent results when comparing two FOL expressions.
 
 - **Files**:
   - `test_LE_calculation.ipynb`: Colab notebook for testing the LE score calculation, including FOL expression parsing, truth table generation, and evaluation of similarity metrics.
