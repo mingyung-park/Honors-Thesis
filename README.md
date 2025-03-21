@@ -1,8 +1,9 @@
 # Honors-Thesis
 Honors Thesis(독립연구) - Scranton Honors Program in Ewha W. University
 
+![Posters](https://github.com/user-attachments/assets/8fce6182-8354-4e7a-bdd2-9bce827fe8e7)
 
-
+<!--
 # Experimets
 
     Baseline 1 - Vanilla Fewshot(5 shot)
@@ -35,3 +36,4 @@ Honors Thesis(독립연구) - Scranton Honors Program in Ewha W. University
 
 ![심포지엄_박민경_2117016_사회와정의_page-0029](https://github.com/user-attachments/assets/30cad800-a66a-4863-807d-0e9460e2ff7e)|![심포지엄_박민경_2117016_사회와정의_page-0030](https://github.com/user-attachments/assets/43204cb7-77e6-422e-85ca-48d6c1a91874)
 ---|---|
+-->
